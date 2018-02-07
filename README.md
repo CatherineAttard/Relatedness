@@ -1,2 +1,2 @@
 # Relatedness
-Scripts from Attard et al. (in review) Molecular Ecology Resources
+Scripts from Attard et al. (Early View) Molecular Ecology Resources

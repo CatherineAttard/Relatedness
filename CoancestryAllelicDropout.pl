@@ -7,7 +7,7 @@ use Cwd;
 my $proportion = $ARGV[0];
 my $workingdirectory = $ARGV[1];
 
-print "This perl script was written by Catherine Attard\nPlease cite Attard et al. (2018) \"Genotyping-by-sequencing for estimating relatedness in nonmodel organisms: Avoiding the trap of precise bias\" Molecular Ecology Resources when using this script\nCatherine makes no guarantee that this script is bug-free; use at your own risk and please report bugs to catherine.r.attard\@gmail.com\n";
+print "This perl script was written by Catherine Attard\nPlease cite Attard et al. (2018) \"Genotyping-by-sequencing for estimating relatedness in nonmodel organisms: Avoiding the trap of precise bias\" Molecular Ecology Resources 28: 381-390 when using this script\nCatherine makes no guarantee that this script is bug-free; use at your own risk and please report bugs to catherine.r.attard\@gmail.com\n";
 print "\nThe script is designed for introducing allelic dropout to genotype data simulated in Coancestry without genotyping error and with or without missing data\n";
 
 if (not defined ($proportion)) {
